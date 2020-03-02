@@ -83,4 +83,4 @@ in a more succinct manner.
 
 let result_local_open =
   let open Math in
-  max [cos pi; sin pi] ;;`
+  max [cos pi; sin pi] ;;
